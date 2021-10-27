@@ -5,16 +5,16 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>HELLO THERE!! ITS ME SHIBHUKUTTAN BOT....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+I AM JUST MADE FOR MOVIESTATION GROUP SO YOU CAN'T ADD ME TO YOUR GROUP🔥🔥😝
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@moviestation
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
+<b><i><u>ഡാ ഇവിടെ എന്താടാ പണി സിനിമ വേണമെകിൽ ഗ്രൂപ്പിൽ പോണം ഇവിടെ നിന്ന് സമയം കളയാണ്ട് ?</u></i></b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
