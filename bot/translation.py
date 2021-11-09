@@ -48,7 +48,7 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> SHIBHUKUTTAN</code>
     
-<b>➥ Creator</b> : <b><i><a href=@Adhi140141</a></i></b>
+<b>➥ MY DADDY</b> : <b><i><a href=@Adhi140141</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
